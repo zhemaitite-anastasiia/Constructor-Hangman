@@ -1,3 +1,4 @@
+console.log('inside of letter.js')
 exports.letter = letter;
 
 function letter(value) {
